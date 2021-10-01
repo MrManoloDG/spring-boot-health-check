@@ -1,6 +1,6 @@
 # Spring Actuator Health GUI
 
-
+This repo contains all the opensource code to maven extension *springactuatorhealthgui*. This is an extension to see, in a more user friendly way, the content of actuator health params in a spring project.
 
 ## Getting started
 
