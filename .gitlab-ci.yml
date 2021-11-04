@@ -11,5 +11,5 @@ sonarcloud-check:
     - mvn verify sonar:sonar -Dsonar.projectKey=MrManoloDG_spring_actuator_health_GUI
   only:
     - merge_requests
-    - master
+    - main
     - develop
