@@ -9,3 +9,8 @@ pom.xml.next
 .settings/
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
+/.idea/jarRepositories.xml
